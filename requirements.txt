@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+opencv-python
+scikit-image
+cellpose
+tqdm
+pillow
+umap-learn
+joblib
+openpyxl
+brokenaxes
+

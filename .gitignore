@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Large microscopy and image-analysis data
+cropped/
+cropped_cells/
+custom_models/
+active_learning_output/
+power_analysis_cache/
+cache/
+*.tif
+*.tiff
+*.svs
+*.nd2
+*.czi
+*.png
+*.jpg
+*.jpeg
+
+# Derived data and models
+*.pkl
+*.pickle
+*.joblib
+*_masks.json
+*_maskmerge.png
+*_cropped_cells.pkl
+
+# Local metadata / generated tables
+serial.csv
+scan_metadata_master.xls
+quantified_cells.csv
+20250308_merged_df.csv
+202050404_abe_df.csv
+202050404_minidystrophin_df.csv
+minimyo_tri_df.csv
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
